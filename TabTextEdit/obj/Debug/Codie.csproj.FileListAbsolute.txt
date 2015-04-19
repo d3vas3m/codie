@@ -1,0 +1,47 @@
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.exe.config
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.exe
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.pdb
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieColorEditor.resources
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieSplashScreen.resources
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieFindAndReplace.resources
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.tEdit.resources
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\Codie.csproj.GenerateResource.Cache
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.exe
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.pdb
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\ScintillaNET.dll
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\ScintillaNET.pdb
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\ScintillaNET.xml
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\Codie.csprojResolveAssemblyReference.cache
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.Properties.Resources.resources
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.exe.config
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.exe
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.pdb
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.exe
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.pdb
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\ScintillaNET.pdb
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\ScintillaNET.xml
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\Codie.csprojResolveAssemblyReference.cache
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieColorEditor.resources
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieSplashScreen.resources
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieFindAndReplace.resources
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.Properties.Resources.resources
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\Codie.csproj.GenerateResource.Cache
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.Codie.resources
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.Splitter.resources
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.exe.config
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.exe
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.pdb
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.exe
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.pdb
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\bin\Debug\ScintillaNET.pdb
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\bin\Debug\ScintillaNET.xml
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\obj\Debug\Codie.csprojResolveAssemblyReference.cache
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieColorEditor.resources
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieSplashScreen.resources
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieFindAndReplace.resources
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.Codie.resources
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.Properties.Resources.resources
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.Splitter.resources
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\obj\Debug\Codie.csproj.GenerateResource.Cache
+C:\Users\dragfire\Documents\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.SplitTest.resources
+C:\Users\dragfire\Documents\Visual Studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.SplitTest.resources

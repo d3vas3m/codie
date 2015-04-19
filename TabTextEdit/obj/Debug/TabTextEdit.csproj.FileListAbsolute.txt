@@ -1,0 +1,15 @@
+c:\users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.exe.config
+c:\users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.exe
+c:\users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\TabTextEdit.pdb
+c:\users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.Properties.Resources.resources
+c:\users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.csproj.GenerateResource.Cache
+c:\users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.exe
+c:\users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.pdb
+c:\users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\ScintillaNET.dll
+c:\users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\ScintillaNET.pdb
+c:\users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\bin\Debug\ScintillaNET.xml
+c:\users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.csprojResolveAssemblyReference.cache
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.tEdit.resources
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieSplashScreen.resources
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieColorEditor.resources
+C:\Users\d3vas3m\documents\visual studio 2013\Projects\TabTextEdit\TabTextEdit\obj\Debug\TabTextEdit.CodieFindAndReplace.resources
